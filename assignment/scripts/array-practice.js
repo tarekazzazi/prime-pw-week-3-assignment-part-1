@@ -1,19 +1,18 @@
 console.log('****** Array Practice *******');
 
 // 1. Creating arrays
-let Drinks = ['small','medium','large','extraLarge'];
-console.log('Drinks are: ',Drinks);
+console.log('--- 1. Practice creating arrays ---');
 
 // Example: Array of animals
 let animalArray = ['fish', 'cat', 'bird', 'dog'];
 console.log('Animals are: ', animalArray);
 
 // 1.a. TODO: Make an array with some favorite foods
-let favoriteFoods = ['burgers','steak','thai','latin','pizza','mediterranean','Indian']
+let favoriteFoods = ['tacos','steak','thai','indian','mediterranean'];
 
 // 1.b. TODO: Log your array of foods to the console with a message, similar 
 //      to the example above
-console.log('Favorite foods are: ',favoriteFoods);
+console.log('My favorite foods are:',favoriteFoods);
 
 
 // 2. Array.length - tells you how many items are in the array
